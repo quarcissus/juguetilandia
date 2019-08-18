@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
+
+
+.acerca {
+    font-family: 'Roboto', sans-serif;
+    color: #505050;
+    
+}
+
+#log-In{
+  padding: 20px;
+}
+
+#titulo {
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+#linea2 {
+    margin-bottom: -100px;
+}
+
+
+/* termian basico*/
+
+
+.pregunta   {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin-bottom: 3px;
+    color: #4e4e4e;
+}
+
+.respuesta  {
+    font-family: 'Comfortaa', cursive;
+    font-size: 16px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    text-align: justify;
+    color: #4e4e4e;
+}

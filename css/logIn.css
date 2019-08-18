@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700');
+
+/*carga*/
+
+
+/*fin carga*/
+
+#log-In{
+  padding: 20px;
+}
+
+#titulo {
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+}
+
+#linea2 {
+    margin-bottom: -100px;
+}
+
+.input-group-text{
+    color: rgb(255, 255, 255);
+    background-color: rgb(49, 86, 246);
+    border-color: rgb(49, 86, 246);
+    box-shadow: 2px 2px 10px #666;
+}
+
+
+#no_Cuenta{
+    text-decoration: none;
+}
+
+#nombre {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 15, 0);
+    border-color: rgb(255, 15, 0);
+    border-radius: 4px;
+}
+
+
+#contra {
+    color: rgb(255, 255, 255);
+    background-color: rgb(112, 223, 0);
+    border-color: rgb(112, 223, 0);
+    border-radius: 4px;
+}
+
+#registro   {  
+    color:  rgb(228, 0, 255);
+    border-color: rgb(228, 0, 255);
+    box-shadow: 2px 2px 10px #b9b9b9;
+}
+
+#registro:hover   {  
+    color:  rgb(255, 255, 255);
+    border-color: rgb(228, 0, 255);
+    background-color: rgb(228, 0, 255);
+}
